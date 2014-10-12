@@ -1,4 +1,11 @@
 PHP-YouTube-MP3
 ===============
 
-A Bootstrap theme with a script to download youtube videos audio in MP3 Format
+A PHP Download from youtube script for MP3's housed in a nice Bootstrap theme.
+
+Requirements:
+
+PHP 5.3+
+FFMPEG Installed (www.mysql-apache-php.com/ffmpeg-install.htm)
+
+Only Tested on Centos Box
