@@ -7,6 +7,10 @@ Requirements:
 
 PHP 5.3+
 
+PHP EXEC PERMISSIONS REQUIRED
+
+CHMOD 777 on download folder + download scripts.
+
 FFMPEG Installed (www.mysql-apache-php.com/ffmpeg-install.htm)
 
 Only Tested on Centos Box
